@@ -1,8 +1,6 @@
-# mindom-spec
+# Minified DOM Interface (AKA DOM Bytecode) Specification
 
-Minified DOM Interface spec
-
-This defines a spec, similar in spirit to WebAssembly, for a shorter-to-parse DOM interface.
+This defines a spec, sort of similar in spirit to WebAssembly, for a shorter-to-parse DOM interface.
 
 ## Motivation
 
