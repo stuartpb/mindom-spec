@@ -39,6 +39,10 @@ Document.q = Document.querySelector;
 Document.qa = Document.querySelectorAll;
 ```
 
+## Alternately
+
+Rather than monkey-patching the DOM, the methods of `d` could return derived classes that implement these minified names, as well as (by virtue of inheritance) the full names (for less common / established properties and methods).
+
 ## Examples
 
 ```js
